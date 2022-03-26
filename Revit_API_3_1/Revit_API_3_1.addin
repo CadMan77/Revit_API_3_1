@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\ProgramData\RevitAPITraining\Revit_API_3_1.dll"</Assembly>
+		<AddInId>901443A4-20F2-4474-89F9-4F50EDC2CE73</AddInId>
+		<FullClassName>Revit_API_3_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPI 3-1 Считывание значения параметра (объем выбранных стен)</Text>
+	</AddIn>
+</RevitAddIns>
